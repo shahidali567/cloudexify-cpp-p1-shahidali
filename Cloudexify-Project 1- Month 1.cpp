@@ -54,7 +54,7 @@ int SelectRange(){
 }
          
          
-int Play(int range){
+void Play(int range){
   int Snumber= rand() % range+1;
   int guess, counts=0;
 
