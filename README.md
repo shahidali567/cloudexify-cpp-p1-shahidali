@@ -45,9 +45,8 @@ Number-Guessing-Game/
 │── main.cpp
 │── bestscore.txt
 │── README.md
-└── screenshots/
-    ├── gameplay1.png
-    └── gameplay2.png
+
+
 ```
 
 ---
@@ -106,11 +105,13 @@ game.exe
 
 ### Main Menu
 
-![Main Menu](screenshots/gameplay1.png)
+![Main Menu](IMG-20260715-WA0004.jpg)
 
-### Winning the Game
+### Number Guessing
 
-![Gameplay](screenshots/gameplay2.png)
+![Gameplay](IMG-20260715-WA0007.jpg)
+
+![Gameplay](IMG-20260715-WA0002.jpg)
 
 ---
 
