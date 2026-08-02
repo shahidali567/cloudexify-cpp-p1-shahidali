@@ -59,7 +59,7 @@ Number-Guessing-Game/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Number-Guessing-Game.git
+git clone (https://github.com/shahidali567/cloudexify-cpp-p1-shahidali)
 ```
 
 2. Open the project folder
