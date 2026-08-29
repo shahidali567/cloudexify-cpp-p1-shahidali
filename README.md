@@ -10,7 +10,7 @@ A simple console-based Number Guessing Game developed in C++. The player selects
 
 **Name:** Shahid Ali
 
-**Registration Number:** Your Registration Number
+**Registration Number:** CX-INT-2026-CPP-0361
 
 ---
 
